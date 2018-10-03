@@ -1,0 +1,5 @@
+
+Host IP: 107.180.4.47
+FTP Username: xiwenyin@ouye.ca
+FTP Password: 19950109
+FTP & explicit FTPS port:  21
